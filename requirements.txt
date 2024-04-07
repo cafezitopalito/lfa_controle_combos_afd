@@ -1,0 +1,5 @@
+automathon==0.0.13
+visual-automata==1.1.1
+pillow==9.4.0
+pandas==2.2.1
+graphviz==0.16
