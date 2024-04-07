@@ -1,9 +1,0 @@
-digraph {
-	q26
-	q59 [peripheries=2]
-	node [color=lightgrey style=filled]
-	q26
-	q59
-	node [color="" style=""]
-	q26 -> q59 [label=" S [3]" color=red penwidth=2.0]
-}
