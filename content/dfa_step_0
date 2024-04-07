@@ -1,0 +1,9 @@
+digraph {
+	q0
+	q7
+	node [color=lightgrey style=filled]
+	q0
+	q7
+	node [color="" style=""]
+	q0 -> q7 [label=" 2 [0]" color=red penwidth=2.0]
+}
